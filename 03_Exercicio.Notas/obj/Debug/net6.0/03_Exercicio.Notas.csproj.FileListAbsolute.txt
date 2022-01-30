@@ -1,0 +1,15 @@
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/obj/Debug/net6.0/03_Exercicio.Notas.csproj.AssemblyReference.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/obj/Debug/net6.0/03_Exercicio.Notas.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/obj/Debug/net6.0/03_Exercicio.Notas.AssemblyInfoInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/obj/Debug/net6.0/03_Exercicio.Notas.AssemblyInfo.cs
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/obj/Debug/net6.0/03_Exercicio.Notas.csproj.CoreCompileInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/bin/Debug/net6.0/03_Exercicio.Notas
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/bin/Debug/net6.0/03_Exercicio.Notas.deps.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/bin/Debug/net6.0/03_Exercicio.Notas.runtimeconfig.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/bin/Debug/net6.0/03_Exercicio.Notas.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/bin/Debug/net6.0/ref/03_Exercicio.Notas.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/bin/Debug/net6.0/03_Exercicio.Notas.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/obj/Debug/net6.0/03_Exercicio.Notas.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/obj/Debug/net6.0/ref/03_Exercicio.Notas.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/obj/Debug/net6.0/03_Exercicio.Notas.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/03_Exercicio.Notas/obj/Debug/net6.0/03_Exercicio.Notas.genruntimeconfig.cache

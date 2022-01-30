@@ -1,0 +1,15 @@
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/obj/Debug/net6.0/02_Metodos.csproj.AssemblyReference.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/obj/Debug/net6.0/02_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/obj/Debug/net6.0/02_Metodos.AssemblyInfoInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/obj/Debug/net6.0/02_Metodos.AssemblyInfo.cs
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/obj/Debug/net6.0/02_Metodos.csproj.CoreCompileInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/bin/Debug/net6.0/02_Metodos
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/bin/Debug/net6.0/02_Metodos.deps.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/bin/Debug/net6.0/02_Metodos.runtimeconfig.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/bin/Debug/net6.0/02_Metodos.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/bin/Debug/net6.0/ref/02_Metodos.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/bin/Debug/net6.0/02_Metodos.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/obj/Debug/net6.0/02_Metodos.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/obj/Debug/net6.0/ref/02_Metodos.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/obj/Debug/net6.0/02_Metodos.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/02_Metodos/obj/Debug/net6.0/02_Metodos.genruntimeconfig.cache
