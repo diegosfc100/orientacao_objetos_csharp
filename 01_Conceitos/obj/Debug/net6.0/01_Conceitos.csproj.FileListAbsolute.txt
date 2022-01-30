@@ -1,0 +1,15 @@
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/obj/Debug/net6.0/01_Conceitos.csproj.AssemblyReference.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/obj/Debug/net6.0/01_Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/obj/Debug/net6.0/01_Conceitos.AssemblyInfoInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/obj/Debug/net6.0/01_Conceitos.AssemblyInfo.cs
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/obj/Debug/net6.0/01_Conceitos.csproj.CoreCompileInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/bin/Debug/net6.0/01_Conceitos
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/bin/Debug/net6.0/01_Conceitos.deps.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/bin/Debug/net6.0/01_Conceitos.runtimeconfig.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/bin/Debug/net6.0/01_Conceitos.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/bin/Debug/net6.0/ref/01_Conceitos.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/bin/Debug/net6.0/01_Conceitos.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/obj/Debug/net6.0/01_Conceitos.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/obj/Debug/net6.0/ref/01_Conceitos.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/obj/Debug/net6.0/01_Conceitos.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/01_Conceitos/obj/Debug/net6.0/01_Conceitos.genruntimeconfig.cache
