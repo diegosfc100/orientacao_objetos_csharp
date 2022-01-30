@@ -1,0 +1,15 @@
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/obj/Debug/net6.0/04_Exercicio.IMC.csproj.AssemblyReference.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/obj/Debug/net6.0/04_Exercicio.IMC.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/obj/Debug/net6.0/04_Exercicio.IMC.AssemblyInfoInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/obj/Debug/net6.0/04_Exercicio.IMC.AssemblyInfo.cs
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/obj/Debug/net6.0/04_Exercicio.IMC.csproj.CoreCompileInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/bin/Debug/net6.0/04_Exercicio.IMC
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/bin/Debug/net6.0/04_Exercicio.IMC.deps.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/bin/Debug/net6.0/04_Exercicio.IMC.runtimeconfig.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/bin/Debug/net6.0/04_Exercicio.IMC.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/bin/Debug/net6.0/ref/04_Exercicio.IMC.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/bin/Debug/net6.0/04_Exercicio.IMC.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/obj/Debug/net6.0/04_Exercicio.IMC.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/obj/Debug/net6.0/ref/04_Exercicio.IMC.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/obj/Debug/net6.0/04_Exercicio.IMC.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/04_Exercicio.IMC/obj/Debug/net6.0/04_Exercicio.IMC.genruntimeconfig.cache
