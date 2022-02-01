@@ -1,0 +1,15 @@
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/obj/Debug/net6.0/07_Construtor.csproj.AssemblyReference.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/obj/Debug/net6.0/07_Construtor.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/obj/Debug/net6.0/07_Construtor.AssemblyInfoInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/obj/Debug/net6.0/07_Construtor.AssemblyInfo.cs
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/obj/Debug/net6.0/07_Construtor.csproj.CoreCompileInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/bin/Debug/net6.0/07_Construtor
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/bin/Debug/net6.0/07_Construtor.deps.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/bin/Debug/net6.0/07_Construtor.runtimeconfig.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/bin/Debug/net6.0/07_Construtor.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/bin/Debug/net6.0/ref/07_Construtor.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/bin/Debug/net6.0/07_Construtor.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/obj/Debug/net6.0/07_Construtor.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/obj/Debug/net6.0/ref/07_Construtor.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/obj/Debug/net6.0/07_Construtor.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/obj/Debug/net6.0/07_Construtor.genruntimeconfig.cache

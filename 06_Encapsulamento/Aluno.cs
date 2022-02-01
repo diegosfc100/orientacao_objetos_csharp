@@ -16,7 +16,7 @@ class Aluno
     {
         Console.WriteLine("Informe a primeira nota: ");
         nota1 = Convert.ToInt32(Console.ReadLine());
-
+        
         Console.WriteLine("Informe a segunda nota: ");
         nota2 = Convert.ToInt32(Console.ReadLine());
 

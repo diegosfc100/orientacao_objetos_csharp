@@ -1,0 +1,15 @@
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/bin/Debug/net6.0/11_Heranca
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/bin/Debug/net6.0/11_Heranca.deps.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/bin/Debug/net6.0/11_Heranca.runtimeconfig.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/bin/Debug/net6.0/11_Heranca.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/bin/Debug/net6.0/ref/11_Heranca.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/bin/Debug/net6.0/11_Heranca.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/obj/Debug/net6.0/11_Heranca.csproj.AssemblyReference.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/obj/Debug/net6.0/11_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/obj/Debug/net6.0/11_Heranca.AssemblyInfoInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/obj/Debug/net6.0/11_Heranca.AssemblyInfo.cs
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/obj/Debug/net6.0/11_Heranca.csproj.CoreCompileInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/obj/Debug/net6.0/11_Heranca.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/obj/Debug/net6.0/ref/11_Heranca.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/obj/Debug/net6.0/11_Heranca.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/11_Heranca/obj/Debug/net6.0/11_Heranca.genruntimeconfig.cache

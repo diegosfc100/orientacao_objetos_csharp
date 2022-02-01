@@ -10,7 +10,7 @@ class Pessoa
     }
     public string Situacao(double imc) 
     // Único paramentro q esse método precisa é o imc, q está no método acima.
-    // Porém, para não ficar um método dentro de outro, IMC() ficará dentro de uma váriavel e usasei a variável.
+    // Porém, para não ficar um método dentro de outro, IMC() ficará dentro de uma váriavel e usarei a variável.
     {
         string retorno; 
         // Como uma condicional só pode ter UM return, criei uma variavel e o return irá receber essa váriavel no final.

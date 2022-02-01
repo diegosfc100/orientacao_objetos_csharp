@@ -1,0 +1,15 @@
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/bin/Debug/net6.0/09_Exercicios
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/bin/Debug/net6.0/09_Exercicios.deps.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/bin/Debug/net6.0/09_Exercicios.runtimeconfig.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/bin/Debug/net6.0/09_Exercicios.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/bin/Debug/net6.0/ref/09_Exercicios.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/bin/Debug/net6.0/09_Exercicios.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/obj/Debug/net6.0/09_Exercicios.csproj.AssemblyReference.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/obj/Debug/net6.0/09_Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/obj/Debug/net6.0/09_Exercicios.AssemblyInfoInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/obj/Debug/net6.0/09_Exercicios.AssemblyInfo.cs
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/obj/Debug/net6.0/09_Exercicios.csproj.CoreCompileInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/obj/Debug/net6.0/09_Exercicios.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/obj/Debug/net6.0/ref/09_Exercicios.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/obj/Debug/net6.0/09_Exercicios.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/09_Exercicios/obj/Debug/net6.0/09_Exercicios.genruntimeconfig.cache
