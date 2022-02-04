@@ -13,7 +13,7 @@ public class Pessoa
 
     public void Mensagem() // Métodos sempre iniciam com letra maiuscula
     {
-        Console.WriteLine($"Prazer, me chamo {nome} e tenho {idade} anos.");
+        Console.WriteLine($"Prazer, me chamo {Nome} e tenho {Idade} anos.");
     }
 
     // public: significa q qlqr arquivo .cs terá acesso/visualização ao atributo ou método.

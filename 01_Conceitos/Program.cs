@@ -13,9 +13,9 @@ namespace _01_Conceitos // Local / Diretório do projeto
 
             // Instanciar um objeto ; Criar algo a partir de um molde
             Pessoa obj = new Pessoa();
-            obj.nome = "João";
-            obj.idade = 99;
-            obj.mensagem();
+            obj.Nome = "João";
+            obj.Idade = 99;
+            obj.Mensagem();
 
 
 

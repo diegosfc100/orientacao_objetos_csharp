@@ -1,0 +1,15 @@
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/obj/Debug/net6.0/12_Polimorfismo.csproj.AssemblyReference.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/obj/Debug/net6.0/12_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/obj/Debug/net6.0/12_Polimorfismo.AssemblyInfoInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/obj/Debug/net6.0/12_Polimorfismo.AssemblyInfo.cs
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/obj/Debug/net6.0/12_Polimorfismo.csproj.CoreCompileInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/bin/Debug/net6.0/12_Polimorfismo
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/bin/Debug/net6.0/12_Polimorfismo.deps.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/bin/Debug/net6.0/12_Polimorfismo.runtimeconfig.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/bin/Debug/net6.0/12_Polimorfismo.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/bin/Debug/net6.0/ref/12_Polimorfismo.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/bin/Debug/net6.0/12_Polimorfismo.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/obj/Debug/net6.0/12_Polimorfismo.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/obj/Debug/net6.0/ref/12_Polimorfismo.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/obj/Debug/net6.0/12_Polimorfismo.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/12_Polimorfismo/obj/Debug/net6.0/12_Polimorfismo.genruntimeconfig.cache
