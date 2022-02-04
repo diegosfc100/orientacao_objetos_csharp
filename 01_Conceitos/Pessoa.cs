@@ -4,14 +4,14 @@ using System;
 // ATRIBUTOS: Caracteríscias. (Ex: nome, idade, peso, sexo...)
 // MÉTODOS: São Funções, servem como ações. (Ex: Cumprimentar, Codar, Apresentar-se...)
 
-class Pessoa
+public class Pessoa
 {
 
-    public string nome;
-    public int idade;
+    public string Nome{get; set;}
+    public int Idade{get; set;}
 
 
-    public void mensagem()
+    public void Mensagem() // Métodos sempre iniciam com letra maiuscula
     {
         Console.WriteLine($"Prazer, me chamo {nome} e tenho {idade} anos.");
     }
