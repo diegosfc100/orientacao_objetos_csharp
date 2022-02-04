@@ -1,0 +1,15 @@
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/bin/Debug/net6.0/13_Estatico
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/bin/Debug/net6.0/13_Estatico.deps.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/bin/Debug/net6.0/13_Estatico.runtimeconfig.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/bin/Debug/net6.0/13_Estatico.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/bin/Debug/net6.0/ref/13_Estatico.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/bin/Debug/net6.0/13_Estatico.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/obj/Debug/net6.0/13_Estatico.csproj.AssemblyReference.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/obj/Debug/net6.0/13_Estatico.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/obj/Debug/net6.0/13_Estatico.AssemblyInfoInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/obj/Debug/net6.0/13_Estatico.AssemblyInfo.cs
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/obj/Debug/net6.0/13_Estatico.csproj.CoreCompileInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/obj/Debug/net6.0/13_Estatico.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/obj/Debug/net6.0/ref/13_Estatico.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/obj/Debug/net6.0/13_Estatico.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/13_Estatico/obj/Debug/net6.0/13_Estatico.genruntimeconfig.cache
