@@ -5,7 +5,7 @@
         // Método
         Exemplo.soma(10, 50);
 
-        // Construtor
+        // Atributo
         Console.WriteLine($"Bem-Vindo, {Exemplo.nome}");
     }
 }
