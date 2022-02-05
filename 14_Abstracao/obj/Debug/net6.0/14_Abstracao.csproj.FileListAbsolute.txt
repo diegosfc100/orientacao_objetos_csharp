@@ -1,0 +1,15 @@
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/bin/Debug/net6.0/14_Abstracao
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/bin/Debug/net6.0/14_Abstracao.deps.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/bin/Debug/net6.0/14_Abstracao.runtimeconfig.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/bin/Debug/net6.0/14_Abstracao.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/bin/Debug/net6.0/ref/14_Abstracao.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/bin/Debug/net6.0/14_Abstracao.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/obj/Debug/net6.0/14_Abstracao.csproj.AssemblyReference.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/obj/Debug/net6.0/14_Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/obj/Debug/net6.0/14_Abstracao.AssemblyInfoInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/obj/Debug/net6.0/14_Abstracao.AssemblyInfo.cs
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/obj/Debug/net6.0/14_Abstracao.csproj.CoreCompileInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/obj/Debug/net6.0/14_Abstracao.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/obj/Debug/net6.0/ref/14_Abstracao.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/obj/Debug/net6.0/14_Abstracao.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/14_Abstracao/obj/Debug/net6.0/14_Abstracao.genruntimeconfig.cache
