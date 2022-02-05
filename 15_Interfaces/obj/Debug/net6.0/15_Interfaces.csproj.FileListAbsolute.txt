@@ -1,0 +1,15 @@
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/obj/Debug/net6.0/15_Interfaces.csproj.AssemblyReference.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/obj/Debug/net6.0/15_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/obj/Debug/net6.0/15_Interfaces.AssemblyInfoInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/obj/Debug/net6.0/15_Interfaces.AssemblyInfo.cs
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/obj/Debug/net6.0/15_Interfaces.csproj.CoreCompileInputs.cache
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/bin/Debug/net6.0/15_Interfaces
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/bin/Debug/net6.0/15_Interfaces.deps.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/bin/Debug/net6.0/15_Interfaces.runtimeconfig.json
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/bin/Debug/net6.0/15_Interfaces.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/bin/Debug/net6.0/ref/15_Interfaces.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/bin/Debug/net6.0/15_Interfaces.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/obj/Debug/net6.0/15_Interfaces.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/obj/Debug/net6.0/ref/15_Interfaces.dll
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/obj/Debug/net6.0/15_Interfaces.pdb
+/home/diego-jn2/Documentos/orientacao_objetos_csharp/15_Interfaces/obj/Debug/net6.0/15_Interfaces.genruntimeconfig.cache
