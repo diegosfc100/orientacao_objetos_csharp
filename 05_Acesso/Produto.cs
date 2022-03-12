@@ -1,9 +1,10 @@
 class Produto
 {
     // Modificadores de Acesso, é a maneira q vc tem de visualizar um atributo ou método;
-        // public    ~> atributos e métodos visíveis em qlqr classe.
-        // private   ~> atributos e métodos visíveis apenas na classe onde são ciados.
-        // protected ~> atributos e métodos visíveis em classes onde são criados ou herdados.
+        // public    ~> Atributos e Métodos visíveis em qlqr classe.
+        // private   ~> Atributos e Métodos visíveis apenas na classe onde são criados.
+        // protected ~> Atributos e Métodos visíveis em classes onde são criados ou herdados.
+        // Segurança do q pode mostrar e oq deve ficar oculto.
 
 
     public string nome;
