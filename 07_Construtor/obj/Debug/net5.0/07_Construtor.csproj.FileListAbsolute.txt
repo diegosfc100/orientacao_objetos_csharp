@@ -1,0 +1,5 @@
+/home/diego_dev/Development/orientacao_objetos_csharp/07_Construtor/obj/Debug/net5.0/07_Construtor.csproj.AssemblyReference.cache
+/home/diego_dev/Development/orientacao_objetos_csharp/07_Construtor/obj/Debug/net5.0/07_Construtor.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego_dev/Development/orientacao_objetos_csharp/07_Construtor/obj/Debug/net5.0/07_Construtor.AssemblyInfoInputs.cache
+/home/diego_dev/Development/orientacao_objetos_csharp/07_Construtor/obj/Debug/net5.0/07_Construtor.AssemblyInfo.cs
+/home/diego_dev/Development/orientacao_objetos_csharp/07_Construtor/obj/Debug/net5.0/07_Construtor.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/bin/Debug/net6.0/08_Get-Set
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/bin/Debug/net6.0/08_Get-Set.deps.json
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/bin/Debug/net6.0/08_Get-Set.runtimeconfig.json
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/bin/Debug/net6.0/08_Get-Set.dll
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/bin/Debug/net6.0/08_Get-Set.pdb
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/obj/Debug/net6.0/08_Get-Set.csproj.AssemblyReference.cache
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/obj/Debug/net6.0/08_Get-Set.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/obj/Debug/net6.0/08_Get-Set.AssemblyInfoInputs.cache
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/obj/Debug/net6.0/08_Get-Set.AssemblyInfo.cs
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/obj/Debug/net6.0/08_Get-Set.csproj.CoreCompileInputs.cache
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/obj/Debug/net6.0/08_Get-Set.dll
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/obj/Debug/net6.0/refint/08_Get-Set.dll
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/obj/Debug/net6.0/08_Get-Set.pdb
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/obj/Debug/net6.0/08_Get-Set.genruntimeconfig.cache
+/home/diego_dev/Development/orientacao_objetos_csharp/08_Get-Set/obj/Debug/net6.0/ref/08_Get-Set.dll

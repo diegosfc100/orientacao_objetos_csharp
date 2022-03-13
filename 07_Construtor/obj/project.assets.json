@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/diego-jn2/.nuget/packages/": {}
+    "/home/diego_dev/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/07_Construtor.csproj",
+      "projectUniqueName": "/home/diego_dev/Development/orientacao_objetos_csharp/07_Construtor/07_Construtor.csproj",
       "projectName": "07_Construtor",
-      "projectPath": "/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/07_Construtor.csproj",
-      "packagesPath": "/home/diego-jn2/.nuget/packages/",
-      "outputPath": "/home/diego-jn2/Documentos/orientacao_objetos_csharp/07_Construtor/obj/",
+      "projectPath": "/home/diego_dev/Development/orientacao_objetos_csharp/07_Construtor/07_Construtor.csproj",
+      "packagesPath": "/home/diego_dev/.nuget/packages/",
+      "outputPath": "/home/diego_dev/Development/orientacao_objetos_csharp/07_Construtor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/diego-jn2/.nuget/NuGet/NuGet.Config"
+        "/home/diego_dev/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
       }
     }
   }
