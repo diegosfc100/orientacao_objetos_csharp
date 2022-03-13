@@ -1,0 +1,15 @@
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/obj/Debug/net6.0/Projeto-SistemaBancario.csproj.AssemblyReference.cache
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/obj/Debug/net6.0/Projeto-SistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/obj/Debug/net6.0/Projeto-SistemaBancario.AssemblyInfoInputs.cache
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/obj/Debug/net6.0/Projeto-SistemaBancario.AssemblyInfo.cs
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/obj/Debug/net6.0/Projeto-SistemaBancario.csproj.CoreCompileInputs.cache
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/bin/Debug/net6.0/Projeto-SistemaBancario
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/bin/Debug/net6.0/Projeto-SistemaBancario.deps.json
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/bin/Debug/net6.0/Projeto-SistemaBancario.runtimeconfig.json
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/bin/Debug/net6.0/Projeto-SistemaBancario.dll
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/bin/Debug/net6.0/Projeto-SistemaBancario.pdb
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/obj/Debug/net6.0/Projeto-SistemaBancario.dll
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/obj/Debug/net6.0/refint/Projeto-SistemaBancario.dll
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/obj/Debug/net6.0/Projeto-SistemaBancario.pdb
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/obj/Debug/net6.0/Projeto-SistemaBancario.genruntimeconfig.cache
+/home/diego_dev/Development/orientacao_objetos_csharp/Projeto-SistemaBancario/obj/Debug/net6.0/ref/Projeto-SistemaBancario.dll

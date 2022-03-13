@@ -4,8 +4,12 @@ using System.Text;
 
 namespace SistemaBancario
 {
-    class ContaCorrente
+    public class ContaCorrente
     {
-        
+        public string titular;
+        public int numAgencia;
+        public string numConta;
+        public double saldo;
+
     }
 }
