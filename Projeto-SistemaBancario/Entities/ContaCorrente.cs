@@ -9,7 +9,24 @@ namespace SistemaBancario
         public string titular;
         public int numAgencia;
         public string numConta;
-        public double saldo;
+        public double saldo = 100; // atributo com valor padrão
+
+        public void Depositar(double valor)
+        {   
+            saldo += valor; 
+        }
+
+        public bool Sacar(double valor)
+        {
+            if(valor >= saldo)
+            {
+            return false;
+            }     
+
+            saldo -= valor;
+            return true;            
+        }
+
 
     }
 }
