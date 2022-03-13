@@ -12,8 +12,21 @@ namespace SistemaBancario
             conta.titular = "Diego Rodrigues";
             conta.numAgencia = 1546;
             conta.numConta = "0015407-0"; 
-            conta.saldo = 90_500.50;
-            
+            conta.saldo = 110.50;
+
+            conta.Depositar(100);
+            conta.Depositar(300);
+
+            bool resultadoSaque = conta.Sacar(700.00);
+            if (resultadoSaque)
+            {
+                Console.WriteLine("Saque realizado com sucesso!");
+            }
+            else
+            {
+                Console.WriteLine("Saque não realizado.");
+            }
+
             // acessando os atributos p/ exibir
             Console.WriteLine($"Titular da Conta: {conta.titular}");
             Console.WriteLine($"Agência: {conta.numAgencia}");
