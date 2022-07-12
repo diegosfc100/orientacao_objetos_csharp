@@ -6,39 +6,39 @@ namespace SistemaBancario
     {
         static void Main(string[] args) 
         {
-            ContaCorrente conta = new ContaCorrente(); // instanciando objeto
+            ContaCorrente conta = new ContaCorrente();
+          //string agencia = "1125-4";
+            conta.DefinirAgencia("1125-4");
+            conta.numConta = "15447-4";
+            conta.saldo = 200;
 
-            // acessando os atributos p/ atribuir
-            conta.titular = "Diego Rodrigues";
-            conta.numAgencia = 1546;
-            conta.numConta = "0015407-0"; 
-            conta.saldo = 110.50;
+            Cliente cliente = new Cliente();
+            cliente.nome = "Diego Rodrigues";
+            cliente.cpf = "392.982.438-70";
+            cliente.telefone = "11 96867-7255";
 
-            conta.Depositar(100);
-            conta.Depositar(300);
+            Console.WriteLine($"Agência número: {conta.ObterAgencia()}");
 
-            bool resultadoSaque = conta.Sacar(700.00);
-            if (resultadoSaque)
+            // Associando a conta ao cliente
+            conta.titular = cliente;
+
+
+            // Forma alternativa de criar objeto
+            Cliente cliente2 = new Cliente
             {
-                Console.WriteLine("Saque realizado com sucesso!");
-            }
-            else
+                nome = "Andreia dos Santos",
+                cpf = "372.702.388.85",
+                telefone = "11 96885-1126"
+            };
+
+            ContaCorrente conta2 = new ContaCorrente
             {
-                Console.WriteLine("Saque não realizado.");
-            }
+                titular = cliente2,
+                //numAgencia = 4493, >> agora q naõ tenho mais o atributo agencia como public, como definir ?
+                numConta = "11235-7",
+                saldo = 300
+            };
 
-            // acessando os atributos p/ exibir
-            Console.WriteLine($"Titular da Conta: {conta.titular}");
-            Console.WriteLine($"Agência: {conta.numAgencia}");
-            Console.WriteLine($"Número da Conta: {conta.numConta}");
-            Console.WriteLine($"Saldo: {conta.saldo.ToString("C2")}");
-
-            // acessar p/ modificar
-            conta.saldo += 5000;
-            Console.WriteLine($"Saldo Atualizado: {conta.saldo.ToString("C2")}");
-
-        }
-
-        
+        }        
     }
 }

@@ -2,7 +2,7 @@ using System; // using é utilizado para importar funcionalidades; System é a b
 
 // CLASSE: É como se fosse um molde. (Ex: Pessoa; Veiculo)
 // ATRIBUTOS: Caracteríscias. (Ex: nome, idade, peso, sexo/ carro, azul, usado, placa)
-// MÉTODOS: São Funções, servem como ações. (Ex: Cumprimentar, Codar, Apresentar-se/  Abastecer; Frear; Buzinar)
+// MÉTODOS: São Funções, servem como ações. (Ex: Cumprimentar; Codar; Abastecer; Frear; Buzinar)
 
 class Pessoa
 {

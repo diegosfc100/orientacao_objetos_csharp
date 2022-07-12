@@ -6,7 +6,7 @@ class Pessoa
     
     public double IMC() // **Não precisa de parâmetros nesse caso.
     {
-        return peso / (altura * altura);
+        return peso / Math.Pow(altura, 2);
     }
     public string Situacao(double imc) 
     // Único paramentro q esse método precisa é o imc, q está no método acima.
